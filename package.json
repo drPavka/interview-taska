@@ -1,0 +1,17 @@
+{
+  "name": "interview-tasks",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prime-number": "nodemon --watch 'prime-number/*.ts' --exec 'ts-node' prime-number/index.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.3",
+    "ts-node": "^8.10.1",
+    "tsc": "^1.20150623.0",
+    "typescript": "^3.8.3"
+  }
+}
