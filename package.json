@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "prime-number": "nodemon --watch 'prime-number/*.ts' --exec 'ts-node' prime-number/index.ts"
+    "prime-number": "nodemon --watch 'prime-number/*.ts' --exec 'ts-node' prime-number/index.ts",
+    "factorial": "nodemon --watch 'factorial/*.ts' --exec 'ts-node' factorial/index.ts"
   },
   "author": "",
   "license": "ISC",
