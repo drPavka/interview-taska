@@ -8,7 +8,8 @@
     "factorial": "nodemon --watch 'factorial/*.ts' --exec 'ts-node' factorial/index.ts",
     "reverse": "nodemon --watch 'array-reverse/*.js' --exec 'node' array-reverse/index.js",
     "duplicate": "nodemon --watch 'duplicate/*.ts' --exec 'ts-node' duplicate/index.ts",
-    "parity-outlier": "nodemon --watch 'parity-outlier/*.ts' --exec 'ts-node' parity-outlier/index.ts"
+    "parity-outlier": "nodemon --watch 'parity-outlier/*.ts' --exec 'ts-node' parity-outlier/index.ts",
+    "async-promise": "nodemon --watch 'async-promise/*.ts' --exec 'ts-node' async-promise/index.ts"
   },
   "author": "",
   "license": "ISC",
